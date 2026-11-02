@@ -1,0 +1,25 @@
+{
+  "publication_kind": "official-archive-import",
+  "imported_at": "2026-11-02",
+  "evidence": "https://cs231n.stanford.edu/assignments.html",
+  "archives": [
+    {
+      "directory": "assignment1",
+      "url": "https://cs231n.github.io/assignments/2026/assignment1.zip",
+      "sha256": "9f806dab2d993e2252994e3c88c0c5cc6514f439582641055b9f25028dd8b608",
+      "bytes": 65517
+    },
+    {
+      "directory": "assignment2",
+      "url": "https://cs231n.github.io/assignments/2026/assignment2.zip",
+      "sha256": "59b7ae6c93af99358fac93bd9f040d8583afa5385faee0a8423db100a235d83f",
+      "bytes": 314812
+    },
+    {
+      "directory": "assignment3",
+      "url": "https://cs231n.github.io/assignments/2026/assignment3.zip",
+      "sha256": "7dfd59e1072c5b5ea0f1e38d85636f434ec904fc5b45d6df9c3ee97fc7b84894",
+      "bytes": 24322078
+    }
+  ]
+}
